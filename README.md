@@ -8,6 +8,12 @@ API, RPC, publick endpoints for testnets and mainnets
 - https://api-lambda.sr20de.xyz/
 - https://grpc-lambda.sr20de.xyz/
 
+#### Acre
+- https://api-acre.sr20de.xyz
+- https://rpc-acre.sr20de.xyz
+- https://grpc-acre.sr20de.xyz
+
+
 #### Tgrade
 - https://tgrade-api.sr20de.xyz
 ### Testnet
