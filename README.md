@@ -17,6 +17,11 @@ API, RPC, publick endpoints for testnets and mainnets
 #### Tgrade
 - https://tgrade-api.sr20de.xyz
 ### Testnet
+#### Uptick Network
+- https://api-uptick-testnet.sr20de.xyz
+- https://rpc-uptick-testnet.sr20de.xyz
+- https://grpc-uptick-testnet.sr20de.xyz
+
 #### Hypersign Protocol
 - https://api-hypersign.sr20de.xyz
 - https://rpc-hypersign.sr20de.xyz
