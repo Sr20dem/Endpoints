@@ -1,3 +1,5 @@
+**This list is outdated and is no longer updated! All new endpoints are published at https://sr20de.xyz/services/**
+
 # Endpoints
 API, RPC, publick endpoints for testnets and mainnets
 
